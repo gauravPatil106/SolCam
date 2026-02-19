@@ -1,0 +1,7 @@
+2026-02-17 16:15:44 | INFO     | SolCam | __init__:59 | ================================================================================
+2026-02-17 16:15:44 | INFO     | SolCam | __init__:60 | SolCam Logging System Started
+2026-02-17 16:15:44 | INFO     | SolCam | __init__:61 | Log file: C:\Users\Gaurav\SolCam\logs\solcam_20260217_161544.log
+2026-02-17 16:15:44 | INFO     | SolCam | __init__:62 | ================================================================================
+2026-02-17 16:15:44 | INFO     | SolCam | info:74 | [CAMERA] Camera rtsp://admin:admin@192.168.0.254:554/stream1 initialized with source: Camera 192.168.0.254
+2026-02-17 16:15:52 | INFO     | SolCam | info:74 | [CAMERA] Starting camera rtsp://admin:admin@192.168.0.254:554/stream1
+2026-02-17 16:15:52 | ERROR    | SolCam | error:92 | [CAMERA] Failed to open camera source: Camera 192.168.0.254
